@@ -1,16 +1,9 @@
 # Use this space to code along with the readme
-def greeting
+def say_phase_ten_times
+ phrase = "Hello World"
+ end
 
-greeting = "Hello World!"
-puts greeting
-puts greeting
-puts greeting
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
-puts phrase
 
-end
+ puts greeting
+
+ 
